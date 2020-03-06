@@ -1,0 +1,21 @@
+{
+  "name": "fb",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode=development"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.9.3",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "firebase-tools": "^7.14.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
